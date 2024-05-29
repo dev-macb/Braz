@@ -1,0 +1,29 @@
+# Arquivos de byte compilado Python
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# Arquivos gerados pelo ambiente virtual
+venv/
+env/
+*.env
+
+# Arquivos de log e saída de teste
+.coverage
+*.log
+*.csv
+*.xlsx
+
+# Arquivos de dados
+*.sqlite3
+*.db
+
+# Arquivos de configuração
+*.ini
+*.cfg
+
+# Arquivos de cache e temporários
+.cache/
+.tmp/
+.temp/
+*.swp

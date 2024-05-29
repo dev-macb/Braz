@@ -1,0 +1,22 @@
+site_name: Braz
+
+repo_name: dev-macb/braz
+repo_url: https://github.com/dev-macb/braz
+
+edit_uri: tree/main/docs
+
+theme:
+  name: material
+  language: pt-BR
+  logo: assets/braz-logo.png
+  favicon: assets/braz-logo.png
+  palette:
+    scheme: preference
+    primary: indigo
+    accent: indigo
+
+markdown_extensions:
+  - attr_list
+
+extra_css:
+  - stylesheet/extra.css
