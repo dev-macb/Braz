@@ -1,5 +1,6 @@
 # Arquivos de byte compilado Python
 __pycache__/
+.pytest_cache/
 *.pyc
 
 # Arquivos gerados pelo ambiente virtual
@@ -8,6 +9,7 @@ env/
 *.env
 
 # Arquivos de log e saída de teste
+.coverage
 *.log
 *.csv
 *.xlsx
